@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Cen-Dev
+# 👋 Olá! Eu sou Luiz
 - 👀 Eu me interesso por python🐍 
 - 🌱 Eu estou aprendendo POO
 - 📫 Como chegar até mim lhduartedossanto@gmail.com
