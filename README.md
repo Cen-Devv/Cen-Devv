@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Luiz
-- 👀 Eu me interesso por python🐍 
-- 🌱 Eu estou aprendendo POO
+- 👀 Eu me interesso por python cyber segurança
+- 🌱 Eu estou no momento estudando lógica
 - 📫 Como chegar até mim lhduartedossanto@gmail.com
 
 <div align="center">
