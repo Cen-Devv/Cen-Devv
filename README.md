@@ -4,7 +4,6 @@
 - 📫 Como chegar até mim lhduartedossanto@gmail.com
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cen-devv&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cen-devv&layout=compact&langs_count=7&theme=aura"/>
 </div>
@@ -20,3 +19,4 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 </div>
+
