@@ -8,10 +8,11 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cen-Devv&show_icons=true&theme=aura&count_private=false"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cen-devv&layout=compact&langs_count=7&theme=aura"/>
-
   
 </div>
 
+  
+      
 ## My technologies
 
 ![Skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
