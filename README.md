@@ -8,11 +8,13 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cen-Devv&show_icons=true&theme=aura&count_private=false"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cen-devv&layout=compact&langs_count=7&theme=aura"/>
+<img height=300
+     src="https://user-images.githubusercontent.com/99365013/221045420-c82214ba-623c-4a00-b672-11d9f6823f34.gif">
 
   
 </div>
 
-![Animation GIF - Find   Share on GIPHY](https://user-images.githubusercontent.com/99365013/220799333-328f0002-a50a-4cf9-b01c-8105b9b794fc.gif)
+
       
 ## My technologies
 
